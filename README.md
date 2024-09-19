@@ -1,2 +1,3 @@
-# Exquisite-corpse-Maarten
-ex 3 - collage
+# Title of the story
+
+
