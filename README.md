@@ -1,3 +1,3 @@
 # Hello Marteen!
 
-#Lets work hard, play hard todat!
+#Lets work hard, play hard today!
